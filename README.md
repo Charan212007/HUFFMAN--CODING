@@ -1,6 +1,6 @@
 # Ex 11: Huffman-Coding
-# Name: Sai Ram E
-# Reg No: 212224240141
+# Name: K Charan Teja
+# Reg No: 212224040163
 ## Aim
 To implement Huffman coding to compress the data using Python.
 
